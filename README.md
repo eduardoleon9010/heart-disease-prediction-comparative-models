@@ -142,10 +142,7 @@ This software is distributed under the MIT License.
 See the repository license information for the applicable terms.
 
 
-## Author
 
-**David Eduardo León**
 
-ORCID: https://orcid.org/0000-0002-7339-0068
 
-GitHub: https://github.com/eduardoleon9010
+
