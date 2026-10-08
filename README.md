@@ -26,7 +26,7 @@ The repository is intended to support computational reproducibility and provide 
 
 Zenodo.
 
-**DOI:** https://doi.org/10.5281/zenodo.23226496
+**DOI:** https://doi.org/10.5281/zenodo.23227926
 
 ### Scientific article
 
