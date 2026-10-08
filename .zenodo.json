@@ -1,0 +1,41 @@
+{
+  "title": "Comparative models for heart disease prediction",
+  "upload_type": "software",
+  "version": "1.0.1",
+  "publication_date": "2026-10-07",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "León, David Eduardo",
+      "orcid": "0000-0002-7339-0068",
+      "affiliation": "Universitario Tecnológico Universitam"
+    }
+  ],
+  "description": "Reproducible computational analysis accompanying the doctoral thesis and scientific article on the comparative evaluation of logistic regression, Random Forest, and Gradient Boosting models for heart disease prediction using the Cleveland Heart Disease Dataset. The computational workflow evaluates predictive performance, sensitivity, specificity, ROC AUC, calibration, stability, repeated stratified cross-validation, statistical inference, and independent test-set performance.",
+  "keywords": [
+    "heart disease",
+    "machine learning",
+    "logistic regression",
+    "Random Forest",
+    "Gradient Boosting",
+    "predictive models",
+    "cross-validation",
+    "ROC AUC",
+    "clinical prediction",
+    "reproducible research"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.23226496",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-dissertation"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.19298926",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ]
+}
