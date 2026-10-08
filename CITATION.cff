@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+
+message: "If you use this software or computational workflow, please cite it as below."
+
+type: software
+
+title: "Comparative models for heart disease prediction"
+
+version: "1.0.1"
+
+date-released: "2026-10-07"
+
+authors:
+  - given-names: "David Eduardo"
+    family-names: "León"
+    orcid: "https://orcid.org/0000-0002-7339-0068"
+
+abstract: >
+  Reproducible computational analysis accompanying the doctoral thesis
+  and scientific article on the comparative evaluation of logistic
+  regression, Random Forest, and Gradient Boosting models for heart
+  disease prediction using the Cleveland Heart Disease Dataset. The
+  computational workflow evaluates predictive performance, sensitivity,
+  specificity, ROC AUC, calibration, stability, repeated stratified
+  cross-validation, statistical inference, and independent test-set
+  performance.
+
+keywords:
+  - "heart disease"
+  - "machine learning"
+  - "logistic regression"
+  - "Random Forest"
+  - "Gradient Boosting"
+  - "predictive models"
+  - "cross-validation"
+  - "ROC AUC"
+  - "clinical prediction"
+  - "reproducible research"
+
+license: "MIT"
+
+repository-code: "https://github.com/eduardoleon9010/heart-disease-prediction-comparative-models"
